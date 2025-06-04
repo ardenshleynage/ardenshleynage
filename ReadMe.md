@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a 💻 passionate developer who loves creating things on the web.<br><br>✨ I code in:<br><br>🐍 Python<br><br>☕ Java<br><br>🌐 HTML / CSS<br><br>⚙️ Django<br><br>🎮 A bit of C#<br><br>🧠 I'm especially interested in web development, from back-end logic to front-end design!<br><br>🎮 Outside of coding, I'm a huge video game enthusiast<br>🌱 Always learning, building, and exploring new technologies<br>🤝 Open to collaboration and cool project ideas!
+Hey there! I'm a 💻 passionate developer who loves creating things on the web.<br><br>✨ I code in:<br><br>🐍 Python<br><br>☕ Java<br><br>🌐 HTML / CSS<br><br>⚙️ Django<br><br>🎮 A bit of C#<br><br>🐘 PHP<br><br>🧠 I'm especially interested in web development, from back-end logic to front-end design!<br><br>🎮 Outside of coding, I'm a huge video game enthusiast<br>🌱 Always learning, building, and exploring new technologies<br>🤝 Open to collaboration and cool project ideas!
 
 
 ## 🌐 Socials:
