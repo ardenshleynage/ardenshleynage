@@ -1,4 +1,4 @@
-## Hey there! I'm a 💻 passionate full-stack developer with experience building web and mobile applications.<br><br>
+## Hey there! I'm a 💻 passionate back-end developer with experience building web and mobile applications.<br><br>
 # 🛠️ Tech Stack
 ## Backend:
 - 🐘 PHP / Laravel
